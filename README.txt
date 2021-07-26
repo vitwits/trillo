@@ -1,0 +1,1 @@
+Run only on a web server because of SVG images
